@@ -11,10 +11,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@playwright/experimental-ct-vue": "^1.42.1",
-    "@types/node": "^20.11.27"
+    "@playwright/experimental-ct-vue": "1.48.0",
+    "@types/node": "20.11.27"
   },
   "dependencies": {
-    "vue": "^3.4.21"
+    "vue": "3.4.21"
   }
 }
